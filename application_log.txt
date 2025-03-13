@@ -1,0 +1,33 @@
+2025-03-10 00:01:39,924 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 00:01:43,733 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 00:01:43,738 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 00:01:47,085 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 00:04:38,351 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 00:04:42,164 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 00:05:13,072 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 00:05:17,267 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 00:26:06,998 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 00:26:11,539 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:04:35,181 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:04:38,782 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:04:45,129 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:04:51,876 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:14:21,304 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:14:24,954 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:23:51,760 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:23:56,823 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:26:38,729 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:26:42,042 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
+2025-03-10 09:35:50,348 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2025-03-10 09:35:54,234 - WARNING - Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/rudddyy/Desktop/InstaFill/myenv/lib/python3.12/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+The chromedriver version cannot be discovered
