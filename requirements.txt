@@ -1,5 +1,5 @@
-streamlit==1.25.0
-selenium==4.11.0
-webdriver-manager==4.1.0
-sqlite3==2.6.0
+streamlit
+selenium
+webdriver-manager
+sqlite3
 
